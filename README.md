@@ -1,5 +1,11 @@
 <h1 align="center">Hey 👋, I'm Naman Banke</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Passionate Coder 💻</h3>
+
+<h3 align="center">
+  I am a 
+  <span style="color:yellow;">Java Full Stack Developer</span> |
+  <span style="color:green;">Passionate Coder</span> |
+ 
+</h3>
 
 ---
 
@@ -50,6 +56,3 @@
 
 ---
 
-### 🐍 Contribution Snake
-```md
-![snake gif](https://github.com/nmangurjar/nmangurjar/blob/output/github-contribution-grid-snake.svg)
