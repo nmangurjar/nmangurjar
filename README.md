@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/naman-banke-28b103238/"><img src="https://img.shields.io/badge/-Naman%20Banke-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/nmangurjar"><img src="https://img.shields.io/badge/-nmangurjar-black?style=flat-square&logo=github"/></a>
 <a href="https://instagram.com/nman_gurjar"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"/></a>
-<a href="mailto:namanbanke.nb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:namanwork02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
