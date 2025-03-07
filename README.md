@@ -1,24 +1,17 @@
 <h1 align="center">Hey 👋, I'm Naman Banke</h1>
 <h3 align="center">Aspiring Java Full Stack Developer | Passionate Coder 💻</h3>
 
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nmangurjar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+[![LinkedIn](https://img.shields.io/badge/-Naman%20Banke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmangurjar)](https://www.linkedin.com/in/nman_gurjar)
+[![GitHub](https://img.shields.io/badge/-nmangurjar-black?style=flat-square&logo=github)](https://github.com/nmangurjar)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/nman_gurjar)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:namanwork02@gmail.com)
 </p>
 
 ---
 
-### 💪 Skills
-- Java
-- Spring Boot
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Data Structures
-- OOPs
-- REST APIs
+### 👨‍💻 About Me
+I am an aspiring **Java Full Stack Developer** passionate about building web applications using **Java**, **Spring Boot**, and **MySQL**. I enjoy solving complex coding problems and learning new technologies to enhance my skills. Always open to exciting opportunities and collaborations.
 
 ---
 
@@ -40,10 +33,3 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmangurjar&theme=dark" alt="Naman Banke's Streak Stats"/>
 </p>
-
----
-
-### 📫 How to Reach Me?
-[![LinkedIn](https://img.shields.io/badge/-Naman%20Banke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmangurjar)](https://www.linkedin.com/in/nmangurjar)
-[![GitHub](https://img.shields.io/badge/-nmangurjar-black?style=flat-square&logo=github)](https://github.com/nmangurjar)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/nmangurjar)
